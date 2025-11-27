@@ -816,7 +816,7 @@
                     </div>
                 </div>
                 <div class="hero-image">
-                    <img src="kavana.jpeg" alt="KAVANA GS" class="profile-photo">
+                    <img src="kavana1.jpeg" alt="KAVANA GS" class="profile-photo">
                 </div>
             </div>
             <a href="#about" class="scroll-down">
@@ -1015,6 +1015,13 @@
                 <p>IBM certified AI professional with practical implementation skills.</p>
                 <button class="btn btn-secondary" onclick="openPDF('AI Certificate', 'IBM-Artificial-Intelligence_Badge.pdf')">View Certificate</button>
             </div>
+            <div class="certificate-card">
+                <i class="fas fa-robot"></i>
+                <h3>Computer Network</h3>
+                <p>Strong understanding of network protocols, configuration, and troubleshooting techniques.</p>
+                <button class="btn btn-secondary" onclick="openPDF('Computer Network Certificate', 'computer-network-certificate.pdf')">View Certificate</button>
+            </div>
+
         </div>
     </div>
 </section>
