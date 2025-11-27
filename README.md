@@ -816,7 +816,7 @@
                     </div>
                 </div>
                 <div class="hero-image">
-                    <img src="kavana1.jpeg" alt="KAVANA GS" class="profile-photo">
+                    <img src="kavana.jpeg" alt="KAVANA GS" class="profile-photo">
                 </div>
             </div>
             <a href="#about" class="scroll-down">
